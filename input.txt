@@ -1,0 +1,3 @@
+//Запуск Stepik заданий
+echo "Eyjafjallajokull 6" | go run shablon.go
+echo "12345 5" | go run shablon.go

@@ -1,0 +1,19 @@
+echo "Очки: | 100" | go run task.go
+//---------
+
+Sample Input 1:
+
+Очки: | 100
+
+Sample Output 1:
+
+Очки: 200
+
+Sample Input 2:
+
+Очки: | 200
+
+Sample Output 2:
+
+Очки: 400
+

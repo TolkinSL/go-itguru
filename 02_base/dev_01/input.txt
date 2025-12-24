@@ -1,0 +1,2 @@
+echo "Hello world" | go run task.go
+//---------

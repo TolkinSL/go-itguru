@@ -1,0 +1,11 @@
+echo "Привет | Мир" | go run task.go
+//---------
+
+Sample Input:
+
+Привет | Мир
+
+Sample Output:
+
+Привет Мир
+

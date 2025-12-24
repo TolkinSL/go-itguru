@@ -1,0 +1,18 @@
+echo "Hello world" | go run task.go
+//---------
+
+Sample Input 1:
+
+42
+
+Sample Output 1:
+
+42
+
+Sample Input 2:
+
+Привет, Мир!
+
+Sample Output 2:
+
+Привет, Мир!
