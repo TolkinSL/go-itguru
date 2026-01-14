@@ -1,0 +1,9 @@
+echo "18" | go run task.go
+//---------
+Sample Input 1:
+
+18
+
+Sample Output 1:
+
+взрослый
