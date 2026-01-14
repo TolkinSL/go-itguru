@@ -1,0 +1,11 @@
+echo "2" | go run task.go
+//---------
+
+Sample Input:
+
+2
+
+Sample Output:
+
+четное
+
