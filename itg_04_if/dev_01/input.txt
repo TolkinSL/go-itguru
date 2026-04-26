@@ -1,0 +1,9 @@
+echo "21" | go run task.go
+//---------
+Sample Input 1:
+
+21
+
+Sample Output 1:
+
+true

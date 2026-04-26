@@ -1,0 +1,9 @@
+echo "2 1 3" | go run task.go
+//---------
+Sample Input 1:
+
+2 1 3
+
+Sample Output 1:
+
+минимальное: 1, максимальное: 3
