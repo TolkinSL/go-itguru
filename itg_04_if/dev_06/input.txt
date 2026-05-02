@@ -1,0 +1,9 @@
+echo "99 100 down" | go run task.go
+//---------
+Sample Input 1:
+
+99 100 down
+
+Sample Output 1:
+
+x: 99, y: 100, direction: down
