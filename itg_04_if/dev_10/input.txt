@@ -1,0 +1,9 @@
+echo "4" | go run task.go
+//---------
+Sample Input 1:
+
+4
+
+Sample Output 1:
+
+6

@@ -1,0 +1,9 @@
+echo "аб" | go run task.go
+//---------
+Sample Input 1:
+
+"аб"
+
+Sample Output 1:
+
+**

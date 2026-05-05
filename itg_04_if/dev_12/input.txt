@@ -1,0 +1,9 @@
+echo "-2" | go run task.go
+//---------
+Sample Input 1:
+
+-2
+
+Sample Output 1:
+
+-2
